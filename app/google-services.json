@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "662446583501",
+    "firebase_url": "https://picpaz-82eab.firebaseio.com",
+    "project_id": "picpaz-82eab",
+    "storage_bucket": "picpaz-82eab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662446583501:android:463adb1d346f4793",
+        "android_client_info": {
+          "package_name": "com.app.kiima.picpaz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662446583501-atgv12i8nf7hgv46r0ef3hrt5c3mjqa2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.kiima.picpaz",
+            "certificate_hash": "C694BAB6B3531623A9E72AF1F57B7025FAF6149E"
+          }
+        },
+        {
+          "client_id": "662446583501-e1ci4dt4hj8121hapkg3m6vaodf12h6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0WEFBGNCfamca18qGRko7OETd5sU99pk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662446583501-e1ci4dt4hj8121hapkg3m6vaodf12h6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
