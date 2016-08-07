@@ -24,6 +24,10 @@ public class MainActivity extends AppCompatActivity {
 
         mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
 
+        Bundle bundle = new Bundle();
+        bundle.putString("screen", "main");
+        mFirebaseAnalytics.logEvent("Screen_view", bundle);
+
         if (getIntent().getExtras() != null) {
             for (String key : getIntent().getExtras().keySet()) {
                 String value = getIntent().getExtras().getString(key);
