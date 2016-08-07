@@ -1,4 +1,4 @@
-package com.app.kiima.picpaz;
+package com.app.kiima.picpaz.service;
 
 import android.util.Log;
 

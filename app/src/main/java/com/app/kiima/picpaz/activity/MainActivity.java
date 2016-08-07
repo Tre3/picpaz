@@ -1,10 +1,12 @@
-package com.app.kiima.picpaz;
+package com.app.kiima.picpaz.activity;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 
+import com.app.kiima.picpaz.R;
+import com.app.kiima.picpaz.service.MyFirebaseMessagingService;
 import com.google.firebase.analytics.FirebaseAnalytics;
 import com.google.firebase.iid.FirebaseInstanceId;
 

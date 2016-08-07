@@ -1,4 +1,4 @@
-package com.app.kiima.picpaz;
+package com.app.kiima.picpaz.service;
 
 import android.app.NotificationManager;
 import android.app.PendingIntent;
@@ -9,6 +9,8 @@ import android.net.Uri;
 import android.support.v4.app.NotificationCompat;
 import android.util.Log;
 
+import com.app.kiima.picpaz.activity.MainActivity;
+import com.app.kiima.picpaz.R;
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
 
